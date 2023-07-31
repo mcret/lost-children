@@ -1,0 +1,4 @@
+- [ ] [[Niflheim road]]
+- [ ] [[Lych Gate]]
+- [ ] talk to [[Knuckletooth]] again
+- [ ] talk to the other fey in the city that might have information
